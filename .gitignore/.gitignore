@@ -2,7 +2,7 @@
 
 ob_start();
 
-$API_KEY = '' 346320006:AAFGyURqTgKNNCUxU0k4Xnpc-Hc6jCvgIpk ;
+$API_KEY = '' 469601435:AAGiAX1oJzxcXuR5cV-M38_wvdr28vPOJyA ;
 ##@iran_playbit ##
 define('API_KEY',$API_KEY);
 function SearchTikBot($method,$datas=[]){
